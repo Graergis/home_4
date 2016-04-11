@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:categories xmlns:tns="http://www.example.org/test/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/test/ test.xsd ">
+  <category name="Техника">
+    <subCategory name="телевизор">
+      <good Color="серый" Cost="17900" CreateDate="10-02-2016" Model="203PO" Producer="Samsung" Quantity="6"/>
+    </subCategory>
+    <subCategory name="магнитофон">
+      <good Color="черный" Cost="2340" CreateDate="12-03-2016" Model="942RJ" Producer="неSamsung" Quantity="отсутствует"/>
+    </subCategory>
+    <subCategory name="пылесос">
+      <good Color="синий" Cost="5670" CreateDate="07-01-2016" Model="283KF" Producer="Philips" Quantity="5"/>
+    </subCategory>
+    <subCategory name="холодильник">
+      <good Color="белый" Cost="19900" CreateDate="11-04-2016" Model="341HR" Producer="отечественный" Quantity="3"/>
+    </subCategory>
+  </category>
+</tns:categories>
